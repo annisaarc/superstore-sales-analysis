@@ -20,6 +20,3 @@ Berdasarkan *Exploratory Data Analysis* (EDA) yang dilakukan, ditemukan beberapa
 ## Rekomendasi Tindakan (Action Plan)
 1. **Supply Chain:** Manajemen logistik perlu mengamankan alokasi stok maksimal untuk lini *Technology* pada awal Kuartal 3 guna menangkap lonjakan pasar di akhir tahun.
 2. **Pricing Strategy:** Disarankan untuk segera melakukan audit biaya dan membekukan program diskon promosi pada lini *Tables* dan *Bookcases* untuk menambal kebocoran *profit*.
-
----
-*Proyek ini disusun oleh **Annisa Rachma**.* 
